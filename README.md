@@ -50,7 +50,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vignesh-krishnan-a223bb314">
+<a href="https://www.linkedin.com/in/rajan1231/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
